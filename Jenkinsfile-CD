@@ -9,7 +9,7 @@ pipeline {
     NODE_IP = '172.31.30.36'   // paste your Node-Server private IP here
     EC2_NAME = "ec2-user"                  // enter your AWS EC2 username
     PIPELINE_NAME = "CI-PIPELINE"          // enter your pipeline name here 
-    PROJECT_NAME = "DevopsProject1"        // enter your Devops project name here
+    PROJECT_NAME = "java-cicd"        // enter your Devops project name here
     }
 
     stages {
