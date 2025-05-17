@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Checkmarx Testing Project CICD";
+		return "Checkmarx Testing Project ";
 	}
 
 	public static void main(String[] args) {
